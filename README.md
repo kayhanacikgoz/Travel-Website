@@ -1,2 +1,2 @@
 # Travel Website
- Gezi websitesi template i.
+ Gezi website template
